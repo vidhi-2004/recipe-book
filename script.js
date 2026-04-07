@@ -406,7 +406,7 @@ const recipes = [
       name: "Handvo",
       category: "Indian",
       subcategory: "Gujarati",
-      image: "handvo.jpeg",
+      image: "Handvo.jpeg",
       description: "Savory lentil cake with vegetables.",
       ingredients: [
         "1 cup rice",
